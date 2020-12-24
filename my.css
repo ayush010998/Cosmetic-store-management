@@ -1,0 +1,110 @@
+body
+{
+    background-image: linear-gradient(rgba(46, 26, 26, 0.626),rgba(84, 23, 23, 0.673),rgba(39, 21, 21, 0.905));
+}
+
+
+
+.container1
+{
+height: 90px;
+background-color: rgba(22, 21, 21, 0.231);
+margin-left: 190px;
+margin-right: 190px;
+
+}
+.c1
+{
+height: 700px;
+background-image: url(images/photo-1.jpg);
+margin-left: 190px;
+margin-right: 190px;
+
+}
+.c2
+{
+height: 400px;
+background-image: linear-gradient(rgba(208, 42, 69, 0.782),rgba(83, 5, 25, 0.727));
+margin-left: 190px;
+margin-right: 190px;
+display: flex;
+
+
+}
+nav{
+    
+    background-color:rgba(108, 22, 22, 0.605);
+   
+    text-align: center;
+}
+a{
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 170px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: aliceblue;
+}
+
+.add{
+display: flex;
+    margin-left: 210px;
+    margin-right: 190px;
+
+}
+h3{
+    font-style: unset;
+    font-size: 2rem;
+    font-weight: bolder;
+    color: rgb(245, 23, 23);
+    text-align: right;
+    
+}
+button{
+    font-style: inherit;
+    font-size: 1rem ;
+    text-align: center;
+}
+h2{
+font-family:cursive;
+color: rgba(10, 10, 10, 0.415);
+font-weight: bolder;
+font-size: 30px;
+text-align: center;
+font-style: italic;
+text-shadow: 0 0 1px rgba(24, 24, 22, 0.796), 0 0 15px rgb(27, 27, 30);
+
+}
+p{
+    lighting-color: crimson;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bolder;
+   
+    padding-top: 30px;
+}
+button
+{
+    background-color: brown;
+    font-size: smaller;
+    font-style: oblique;
+    font-weight: bolder;
+    text-align: center;
+    
+}
+footer{
+
+margin-left: 190px;
+margin-right: 190px;
+font-style:oblique;
+font-size: 2.5rem;
+background-color: rgba(240, 248, 255, 0.319);
+text-align: center;
+
+}

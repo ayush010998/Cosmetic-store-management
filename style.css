@@ -1,0 +1,92 @@
+body{
+    
+    background-image: url(images/hi.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
+
+.container{
+    margin-left:auto;
+    margin-right:auto;
+    width:1024px;
+}
+
+
+
+
+header{
+    
+    color: black;
+    height:100px;
+    width:1024px;
+    text-align: center;
+}
+nav{
+    padding-top: 35px;
+    background-color:rgba(0, 0, 0, 0.34);
+    height:40px;
+    width:1024px;
+    text-align: center;
+}
+main{
+    height:400px;
+    padding-top: 10px;
+    padding-left: 240px;
+    padding-right: 240px;
+}
+
+footer{
+    background-color: rgba(0, 0, 0, 0.544);
+    height:50px;
+    width:1024px;
+    text-align: center;
+    
+}
+h1
+{
+    color: rgba(236, 104, 27, 0.959);
+    font-size: 50px;
+    font-family: cursive;
+    font-weight: bolder;
+    text-align:center;
+    text-shadow: 0 0 1px rgb(24, 24, 22), 0 0 15px rgb(27, 27, 30);
+}
+p{
+
+    font-family: yellow serif;
+    font-size: 40px;
+    font-weight: bolder;
+    color: rgba(233, 226, 26, 0.891);
+    text-shadow: 0 0 10px #FF0000, 0 0 5px #0000FF; 
+}
+a{
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 170px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: aliceblue;
+}
+footer p{
+    color: aliceblue;
+    font-style: initial;
+    font-weight: normal;
+    font-size: 25px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    text-shadow: none;
+}
+section{
+    padding-top: 5px;
+    padding bottom: 5px;
+    
+}

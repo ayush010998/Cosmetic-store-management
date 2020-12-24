@@ -1,0 +1,40 @@
+.full{
+
+background-image: linear-gradient(rgba(240, 25, 25, 0.782));
+
+}
+.head{
+background-image: repeating-radial-gradient(rgba(98, 8, 8, 0.884),rgba(17, 17, 17, 0.428));;
+height:100px;
+
+}
+nav{
+    
+background-color:rgba(108, 22, 22, 0.605);
+   
+    text-align: center;
+}
+a{
+    color:black;
+    font-size: 25px;
+    font-weight: bolder;
+    padding-left: 170px;
+    text-align: center;
+}
+nav a{
+    text-decoration: none;
+    font-size: 30px;
+    padding-left: 10px;
+    padding-right: 10px;
+    color: aliceblue;
+}
+footer{
+
+    margin-left: 190px;
+    margin-right: 190px;
+    font-style:oblique;
+    font-size: 2.5rem;
+    background-color: rgba(240, 248, 255, 0.319);
+    text-align: center;
+    
+    }
